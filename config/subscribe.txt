@@ -34,3 +34,5 @@ https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 https://fanmingming.com/txt?url=https://live.fanmingming.cn/tv/m3u/ipv6.m3u
 https://github.com/wcb1969/iptv/blob/main/%E6%B9%96%E5%8C%97PLTV%E6%AD%A6%E6%B1%89%E7%A7%BB%E5%8A%A8%E7%9B%B4%E6%92%AD%E6%BA%90%E5%A4%9Aip%E7%89%88.txt
 https://github.com/xzw832/cmys/blob/main/iptv_all.txt
+https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/aptv-playback.m3u
