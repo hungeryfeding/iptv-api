@@ -18,3 +18,16 @@ https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 #https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 #https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+https://iptv-org.github.io/iptv/index.m3u
+https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/移动专享.txt
+https://github.com/kimwang1978/collect-txt/blob/main/bbxx.m3u
+https://iptv-org.github.io/iptv/languages/zho.m3u
+https://iptv-org.github.io/iptv/countries/hk.m3u
+https://iptv-org.github.io/iptv/countries/mo.m3u
+https://iptv-org.github.io/iptv/countries/tw.m3u
+http://175.178.251.183:6689/live.m3u
+https://live.fanmingming.cn/m3u8
+https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
+https://github.com/YueChan/Live/blob/main/GNTV.m3u
+https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
